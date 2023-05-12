@@ -1,0 +1,40 @@
+[
+  {
+    "customerName": "Sathish kumar",
+    "tripType": "One way",
+    "place": [
+      {
+        "startPlace": "Coimbatore",
+        "endPlace": "Delhi",
+        "tripDate": "20/04/2023"
+      }
+    ]
+  },
+  {
+    "customerName": "Vishnu yardini",
+    "tripType": "Multi city",
+    "place": [
+      {
+        "startPlace": "Coimbatore",
+        "endPlace": "Delhi",
+        "tripDate": "20/04/2023"
+      },
+      {
+        "startPlace": "Delhi",
+        "endPlace": "Mumbai",
+        "tripDate": "22/04/2023"
+      }
+    ]
+  },
+  {
+    "customerName": "Prabhanjan",
+    "tripType": "Round trip",
+    "place": [
+      {
+        "startPlace": "Coimbatore",
+        "endPlace": "Hyderabd",
+        "tripDate": "20/04/2023"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "testOpen": ".\\node_modules\\.bin\\cypress open",
+    "testRun" : ".\\node_modules\\.bin\\cypress run",
+    "testSpec" : ".\\node_modules\\.bin\\cypress open run --spec \\cypress\\e2e\\framework.cy.js",
+    "testDashbaordProject" : "npx cypress run --record --key 3c2cf3d9-0682-4bdd-8c72-9338aee4c5c5"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}

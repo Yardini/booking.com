@@ -1,0 +1,11 @@
+  {
+      "customerName": "Sathish kumar",
+      "tripType": "One way",
+      "place": [
+        {
+          "startPlace": "Coimbatore",
+          "endPlace": "Delhi",
+          "tripDate": "20/04/2023"
+        }
+      ]
+    }
